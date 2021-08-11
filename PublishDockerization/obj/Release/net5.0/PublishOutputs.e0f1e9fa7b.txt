@@ -1,0 +1,11 @@
+E:\cognizant_internship\WebApi\PublishDockerization\PublishDockerization\obj\Docker\publish\PublishDockerization.exe
+E:\cognizant_internship\WebApi\PublishDockerization\PublishDockerization\obj\Docker\publish\appsettings.Development.json
+E:\cognizant_internship\WebApi\PublishDockerization\PublishDockerization\obj\Docker\publish\appsettings.json
+E:\cognizant_internship\WebApi\PublishDockerization\PublishDockerization\obj\Docker\publish\PublishDockerization.dll
+E:\cognizant_internship\WebApi\PublishDockerization\PublishDockerization\obj\Docker\publish\PublishDockerization.deps.json
+E:\cognizant_internship\WebApi\PublishDockerization\PublishDockerization\obj\Docker\publish\PublishDockerization.runtimeconfig.json
+E:\cognizant_internship\WebApi\PublishDockerization\PublishDockerization\obj\Docker\publish\PublishDockerization.pdb
+E:\cognizant_internship\WebApi\PublishDockerization\PublishDockerization\obj\Docker\publish\Microsoft.OpenApi.dll
+E:\cognizant_internship\WebApi\PublishDockerization\PublishDockerization\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+E:\cognizant_internship\WebApi\PublishDockerization\PublishDockerization\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\cognizant_internship\WebApi\PublishDockerization\PublishDockerization\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
